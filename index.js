@@ -9,7 +9,7 @@ const moment = require('moment-timezone'); // Thêm dòng này để sử dụng
 // --- CẤU HÌNH BOT ---
 const HOST = 'auroraanime-C3AI.aternos.me';
 const PORT = 63018;
-const USERNAME = 'AURORA_AFK_BOT';
+const USERNAME = 'AURORA_AFK_BOT1';
 const VERSION = '1.21.1';
 const RECONNECT_DELAY = 15000;
 
